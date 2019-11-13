@@ -1,7 +1,7 @@
 # React Task
 This project is the basic example of React application consists of three components and loaded into the webpage with routing.
 
-**Note**: Please refer the demo mentioned in description.
+[Demo](https://react-code-example.web.app/).
 
 ## Tech Dependencies
 |Package|Version|
