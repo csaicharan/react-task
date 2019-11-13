@@ -61,6 +61,7 @@ class FrameworksPage extends Component {
     return <div>
       <FormContainer>
         <InputField name="searchText" value={searchText} onChange={this.updateSearchText} />
+        <P><strong>Note :</strong> The search is case-sensitive.</P>
       </FormContainer>
       <ResultGrid>
         {RenderResults(items, searchText)}
